@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  basePath: 'https://mak-somniferum.github.io/next-app/',
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
